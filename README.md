@@ -6,7 +6,7 @@ Here you'll find some of those little pieces.
 
 ### Books
 
-* [안드로이드 미디어 프로그래밍](/android-media-programming) by **박 헌 재**, 2016.
+* [안드로이드 미디어 프로그래밍](books/android-media-programming) by **박 헌 재**, 2016.
 
 
 
